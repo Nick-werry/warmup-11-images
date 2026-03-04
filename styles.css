@@ -1,0 +1,26 @@
+body, h1, ul {
+    margin: 0;
+}
+
+.site-header {
+    background-color: aqua;
+    color: blue;
+}
+
+.main {
+    background-color: beige;
+    color: aquamarine;
+    max-width: 600px;
+    margin: auto;
+}
+
+.site-footer {
+    background-color: black;
+    color: azure;
+}
+
+.hero-image {
+    width: 100%;
+    max-width: 100px;
+    height: auto;
+}
